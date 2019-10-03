@@ -1,6 +1,6 @@
-#indexing
-my_name = "hong Markus"
-print(my_name[1])
-print(my_name[-1])
-print(my_name[-7])
-print('w\no\nw')
+# 191003 indexing
+today = "오늘은 개천절입니다."
+print(today)
+print("\n")
+print(today[4], today[5], today[6])
+print(today[-1])
