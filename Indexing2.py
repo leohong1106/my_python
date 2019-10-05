@@ -14,3 +14,4 @@ animals.sort()
 print(animals)
 
 #animals.count로 셀 수도 있음.
+print(len(animals))
